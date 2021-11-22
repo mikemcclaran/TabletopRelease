@@ -23,3 +23,6 @@ To place items on your table, look directly at Jeeves (the butler). He will give
 Use Oculus quick settings recenter view to return to your seat at the table at any time.
 
 If you are the only player using the app, you will enter a new room automatically. If you want to join one of your friends who is already in a room, then use the "screen" high up on the right-hand wall and select "Join", then select your friend's room.
+
+# Findings and Future Work
+We're proud of the groundwork we've laid here, but since this is a hackthon with a short deadline, there's plenty of room for improvement. Now that we've proves that the fundamental premise is exciting, we intend to invest in more polish and refinement to turn this into a first class experience. In particular, we've learned a lot about hand interactions and voice commands with Wit.ai, and now have some concrete plans to improve the experience based on our findings so far.
