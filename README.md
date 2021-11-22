@@ -1,2 +1,2 @@
-# TabletopRelease
-Public alpha releases of Tabletop for XR Hackathon
+# Tabletop
+This repository contains public alpha releases of Tabletop for Meta's XR Hackathon.
